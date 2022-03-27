@@ -13,7 +13,8 @@ on:
 
 env:
     TZ: Asia/Shanghai
-    USERS: https://going.91merry.xyz/----2646608706@qq.com----ejJHFG67756449jHjahd;
+    USERS: https://going.91merry.xyz/----2646608706@qq.com----ejJHFG67756449jHjahd;https://feisucloud.pw----2646608706@qq.com----jhSgF564bDXvh5632;
+
 
     PUSH_KEY: SCT133120TqdSjM1srvhwMvUJp0xkifOpi
     PUSH_TURBO_KEY: ${{secrets.PUSH_TURBO_KEY}}
