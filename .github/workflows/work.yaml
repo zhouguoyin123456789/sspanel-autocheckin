@@ -13,8 +13,9 @@ on:
 
 env:
     TZ: Asia/Shanghai
-    USERS: ${{secrets.USERS}}
-    PUSH_KEY: ${{secrets.PUSH_KEY}}
+    USERS: https://going.91merry.xyz/----2646608706@qq.com----ejJHFG67756449jHjahd;
+
+    PUSH_KEY: SCT133120TqdSjM1srvhwMvUJp0xkifOpi
     PUSH_TURBO_KEY: ${{secrets.PUSH_TURBO_KEY}}
     QMSG_KEY: ${{secrets.QMSG_KEY}}
     DDBOT_TOKEN: ${{secrets.DDBOT_TOKEN}} 
